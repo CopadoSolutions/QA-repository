@@ -2883,10 +2883,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>PublishMultiforce</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>BulkApiHardDelete</name>
     </userPermissions>
     <userPermissions>

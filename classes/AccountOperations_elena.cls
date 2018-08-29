@@ -6,10 +6,10 @@ public class AccountOperations_elena {
     public static Account setDefaultPhone(Account a) {//Dev01
         a.Phone = '1111111111';
         return a;
-    }    
+    }
     
      public static Account setDefaultURL(Account a) {//DEV2
-        a.Website = 'www.copa.do';//DEV2
+        a.Website = 'www.copado.com';//DEV2
         return a;
     }
 }
